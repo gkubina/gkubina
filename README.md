@@ -1,6 +1,6 @@
 # Welcome to My 42 Projects
 
-Welcome to my GitHub profile! This repository showcases the various projects I have worked on as part of my journey at [42](https://www.42lehavre.fr/), an innovative coding school that focuses on peer-to-peer learning and real-world problem-solving.
+Welcome to my GitHub profile! This repository showcases the various projects I have worked on as part of my journey at [42_Le_Havre](https://www.42lehavre.fr/), an innovative coding school that focuses on peer-to-peer learning and real-world problem-solving.
 
 In this repository, you'll find a selection of projects from my 42 curriculum, demonstrating my skills in C programming, algorithms, system design, and more. Each project reflects the challenges, solutions, and personal growth I've experienced throughout the program.
 
