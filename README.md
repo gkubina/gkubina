@@ -6,28 +6,29 @@ In this repository, you'll find a selection of projects from my 42 curriculum, d
 
 ## Projects
 
-### 1. [**CPP**](link-to-cpp-project)
+### 1. [**CPP**](https://github.com/gkubina/42-common_core/tree/main/CPP)
 This project introduced me to C++ and object-oriented programming (OOP). I learned about classes, inheritance, polymorphism, and the Standard Template Library (STL). The project was focused on applying OOP principles to solve real-world problems.
 
-### 2. [**Philosophers**](link-to-philosophers-project)
+### 2. [**Philosophers**](https://github.com/gkubina/42-common_core/tree/main/Philosophers)
 The "Philosophers" project is a classic synchronization problem that involves simulating philosophers sitting at a table, eating spaghetti. I applied multithreading and mutexes to avoid race conditions and deadlock, practicing my skills in concurrency and thread management.
 
-### 3. [**cub_3D**](link-to-cub-3d-project)
-In this project, I created a basic 3D engine based on the raycasting technique, which allowed me to render a 3D world from a 2D map. I worked with handling textures, creating a simple graphical environment, and mastering the low-level aspects of graphics programming.
+### 3. [**cub_3D**](https://github.com/gkubina/42-common_core/tree/main/cub_3D)
+In this project, we created with Daleliev a basic 3D engine based on the raycasting technique, which allowed us to render a 3D world from a 2D map. We
+worked with handling textures, creating a simple graphical environment, and mastering the low-level aspects of graphics programming.
 
-### 4. [**fract-ol**](link-to-fract-ol-project)
+### 4. [**fract-ol**](https://github.com/gkubina/42-common_core/tree/main/fract-ol)
 In "fract-ol", I implemented fractal generators, focusing on the Mandelbrot and Julia sets. The project helped me learn about graphical rendering, mathematical algorithms, and how to manipulate pixel data for visual effects.
 
-### 5. [**ft_printf**](link-to-ft-printf-project)
+### 5. [**ft_printf**](https://github.com/gkubina/42-common_core/tree/main/ft_printf)
 This project required me to implement a simplified version of the `printf` function. It helped me gain a deeper understanding of variadic functions, format specifiers, and memory handling in C, while also enhancing my knowledge of string formatting.
 
-### 6. [**minishell**](link-to-minishell-project)
-In the "minishell" project, I built a basic shell that could execute commands, manage processes, and handle piping and redirection. This project was a deep dive into system programming, process control, and handling input/output streams.
+### 6. [**minishell**](https://github.com/gkubina/42-common_core/tree/main/minishell)
+In the "minishell" project, we built with Daleliev a basic shell that could execute commands, manage processes, and handle piping and redirection. This project was a deep dive into system programming, process control, and handling input/output streams.
 
-### 7. [**minitalk**](link-to-minitalk-project)
+### 7. [**minitalk**](https://github.com/gkubina/42-common_core/tree/main/minitalk)
 "minitalk" is a project where I implemented a communication system using UNIX signals. This allowed me to transfer data between two processes, demonstrating my understanding of signals, process communication, and signal handling in a Unix environment.
 
-### 8. [**push-swap**](link-to-push-swap-project)
+### 8. [**push-swap**](https://github.com/gkubina/42-common_core/tree/main/push-swap)
 In "push-swap", I implemented a sorting algorithm to efficiently sort a stack of integers using a minimal number of operations. This project focused on algorithm optimization and problem-solving with constraints on space and time complexity.
 
 ## Skills Learned
@@ -42,13 +43,12 @@ Through these projects, I have gained experience in:
 
 ## About Me
 
-I am currently a student at 42, passionate about programming and continuous learning. I enjoy solving complex problems and tackling challenges through clean, efficient code. I'm always looking to expand my knowledge and improve my skills by working on diverse projects.
+I am currently a student at 42 Le Havre, passionate about programming and continuous learning. I enjoy solving complex problems and tackling challenges through code. I'm always looking to expand my knowledge and improve my skills by working on diverse projects.
 
 Feel free to reach out to me for any questions, collaboration opportunities, or feedback!
 
 ## Contact
 
-- [LinkedIn](your-linkedin-profile-link)
-- [Email](your-email-link)
+- [LinkedIn](https://www.linkedin.com/in/georg-kubina)
 
 Thank you for visiting my GitHub! Happy coding!
